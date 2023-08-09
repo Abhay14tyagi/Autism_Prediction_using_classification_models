@@ -1,4 +1,3 @@
-# Autism_Prediction_using_classification_models
 # Machine Learning Project: Autism Detection using Classification Models
 
 Welcome to the "Autism Detection using Classification Models" project! This repository contains the code and resources for building and evaluating machine learning models to predict whether an individual has autism based on various features, including age, gender, jaundice, and the results of 10 autism-related tests.
